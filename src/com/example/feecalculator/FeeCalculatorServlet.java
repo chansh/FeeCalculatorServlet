@@ -1,3 +1,4 @@
+package com.example.feecalculator;
 
 
 import java.io.IOException;
